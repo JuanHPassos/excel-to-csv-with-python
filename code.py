@@ -3,7 +3,7 @@ from googleapiclient.discovery import build
 
 SPREADSHEET_ID = '1lXw184lTeepM7KMSYRFxcSSfkQgFfyifYbFRfOqDX4w'
 RANGE_NAME = 'Dados'
-API_KEY = ${{ secrets.api_key }}
+API_KEY = ${{ secrets.API_KEY }}
 
 def authenticate_sheets(api_key):
     return build('sheets', 'v4', developerKey=api_key).spreadsheets()
