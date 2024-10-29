@@ -5,7 +5,16 @@
 
 1. Criar conta
 2. Criar um projeto
+
+![Passo1](imagens/2.Passo1.png)
+![Passo1](imagens/2.Passo2.png)
+![Passo1](imagens/2.Passo3.png)
+
 3. Habilitar um serviço do google sheets API(Procura na barra de pesquisa)
+
+![Passo1](imagens/3.Passo1.png)
+![Passo1](imagens/3.Passo2.png)
+
 4. Gerar chave API em APT & Services -> Credencials
 
 ![Passo1](imagens/Passo1.png)
