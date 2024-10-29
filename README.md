@@ -9,3 +9,5 @@
 4. Gerar chave API em APT & Services -> Credencials
 
 ![Passo1](imagens/Passo1.png)
+![Passo2](imagens/Passo2.png)
+![Passo3](imagens/Passo3.png)
